@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>LeviAdo</id>
+    <version>1.0.0</version>
+    <authors>Levi</authors>
+    <owners>Levi</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <releaseNotes>First release</releaseNotes>
+    <copyright>Levi 2019</copyright>
+    <tags>Métodos Acesso a Dados</tags>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="System.Data.SqlClient" version="4.7.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\levis\OneDrive\Área de Trabalho\Levi.ADO\Levi.ADO\bin\Release\netstandard2.0\Levi.ADO.dll" target="lib\netstandard2.0\Levi.ADO.dll" />
+    <file src="C:\Users\levis\OneDrive\Área de Trabalho\Levi.ADO\Levi.ADO\bin\Release\netstandard2.0\Levi.ADO.xml" target="lib\netstandard2.0\Levi.ADO.xml" />
+  </files>
+</package>

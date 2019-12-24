@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\levis\\OneDrive\\Área de Trabalho\\Levi.ADO\\Levi.ADO\\Levi.ADO.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\levis\\OneDrive\\Área de Trabalho\\Levi.ADO\\Levi.ADO\\Levi.ADO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\levis\\OneDrive\\Área de Trabalho\\Levi.ADO\\Levi.ADO\\Levi.ADO.csproj",
+        "projectName": "Levi.ADO",
+        "projectPath": "C:\\Users\\levis\\OneDrive\\Área de Trabalho\\Levi.ADO\\Levi.ADO\\Levi.ADO.csproj",
+        "packagesPath": "C:\\Users\\levis\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\levis\\OneDrive\\Área de Trabalho\\Levi.ADO\\Levi.ADO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\levis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

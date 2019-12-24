@@ -1,0 +1,9 @@
+C:\Users\levis\OneDrive\Área de Trabalho\Levi.ADO\Levi.ADO\bin\Debug\netstandard2.0\Levi.ADO.deps.json
+C:\Users\levis\OneDrive\Área de Trabalho\Levi.ADO\Levi.ADO\bin\Debug\netstandard2.0\Levi.ADO.dll
+C:\Users\levis\OneDrive\Área de Trabalho\Levi.ADO\Levi.ADO\obj\Debug\netstandard2.0\Levi.ADO.csproj.CoreCompileInputs.cache
+C:\Users\levis\OneDrive\Área de Trabalho\Levi.ADO\Levi.ADO\obj\Debug\netstandard2.0\Levi.ADO.AssemblyInfoInputs.cache
+C:\Users\levis\OneDrive\Área de Trabalho\Levi.ADO\Levi.ADO\obj\Debug\netstandard2.0\Levi.ADO.AssemblyInfo.cs
+C:\Users\levis\OneDrive\Área de Trabalho\Levi.ADO\Levi.ADO\bin\Debug\netstandard2.0\Levi.ADO.pdb
+C:\Users\levis\OneDrive\Área de Trabalho\Levi.ADO\Levi.ADO\obj\Debug\netstandard2.0\Levi.ADO.dll
+C:\Users\levis\OneDrive\Área de Trabalho\Levi.ADO\Levi.ADO\obj\Debug\netstandard2.0\Levi.ADO.pdb
+C:\Users\levis\OneDrive\Área de Trabalho\Levi.ADO\Levi.ADO\bin\Debug\netstandard2.0\Levi.ADO.xml
